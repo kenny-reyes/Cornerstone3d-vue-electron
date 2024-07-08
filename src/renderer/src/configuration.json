@@ -1,0 +1,64 @@
+{
+  "appTitle": "App",
+  "defaultLanguage": "es-ES",
+  "themes": {
+    "light": {
+      "colors": {
+        "primary": "#0077bf",
+        "secondary": "#EAEAEA",
+        "accent": "#18aff5",
+        "error": "#ff3838",
+        "warning": "#fcba03",
+        "info": "#00bcd4",
+        "success": "#4CAF50",
+        "appBar": "#18aff5",
+        "navigationPanel": "#FFFFFF",
+        "footer": "#DDDDDD",
+        "text": "#444444",
+        "text-inverted": "#FFFFFF",
+        "text-secondary": "#777777",
+        "background": "#FFFFFF",
+        "button": "#FCFCFC",
+        "panel": "#EFEFEF",
+        "soft-panel": "#EFEFEF",
+        "apr-navigation-panel": "#FFFFFF",
+        "entityGroup": "#DDDDDD"
+      }
+    },
+    "dark": {
+      "colors": {
+        "primary": "#7db5ff",
+        "secondary": "#313131",
+        "accent": "#18aff5",
+        "error": "#f75c5c",
+        "warning": "#bd7b00",
+        "info": "#00bcd4",
+        "success": "#357938",
+        "appBar": "#2e2e2e",
+        "navigationPanel": "#363636",
+        "footer": "#2e2e2e",
+        "text": "#EEEEEE",
+        "text-inverted": "#222222",
+        "text-secondary": "#999999",
+        "background": "#222222",
+        "button": "#555555",
+        "panel": "#313131",
+        "soft-panel": "#444444",
+        "apr-navigation-panel": "#444444",
+        "entityGroup": "#444444"
+      }
+    }
+  },
+  "defaultTheme": "light",
+  "APIUrl": "http://localhost:5000/api",
+  "ImagesUrl": "http://localhost:5000/resources",
+  "AprId": 1,
+  "synchronize": false,
+  "hideSections": {},
+  "loginBackground": "",
+  "weightUnit": "lb",
+  "ItemsPerPage": 25,
+  "errorViewRedirectInMilliseconds": 5000,
+  "autoCloseUserConfig": true,
+  "autoCloseUserConfigTime": 5000
+}

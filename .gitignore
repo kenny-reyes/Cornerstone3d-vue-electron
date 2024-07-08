@@ -1,0 +1,10 @@
+node_modules
+dist
+out
+*.log*
+
+# Yarn package cache
+.yarn
+
+# Linux directory configuration
+.directory
